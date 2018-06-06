@@ -33,7 +33,7 @@ Ref:: https://materializecss.com/floating-action-button.html
 		 
 		 <a href="#" class="btn-floating red"> <i class="material-icons large">add</i> </a>
 		 
-		 <h3> Floating action button </h3>
+		 <h3> Flat button </h3>
 		 
 		 <a class="waves-effect waves-teal btn-flat">Button</a>
 		 
